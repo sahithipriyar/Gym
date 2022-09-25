@@ -1,0 +1,39 @@
+.nav{
+    height: 80px;
+    width: 100%;
+    /* border: 1px solid gray; */
+    background-color: skyblue;
+    border-radius: 10px;
+}
+.nv{
+    display: flex;
+    position: absolute;
+    right: 45%;
+    color: white;
+}
+.trainer{
+    position: relative;
+    left: 180px;
+    bottom: 60px;
+    height: 40px;
+    width: 80px;
+    background-color: gray;
+    border-radius: 10px;
+    border-color: gray;
+    color: rgb(169, 20, 44);
+}
+.select{
+    position: relative;
+    left: 160px;
+    height: 30px;
+    border-radius: 15px;
+    color: purple;
+    bottom: 60px;
+    width: 100px;
+    border-color: violet;
+}
+.tr{
+    position: relative;
+    left: 260px;
+    bottom: 140px;
+}

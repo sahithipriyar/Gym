@@ -1,0 +1,28 @@
+.sign{
+    height: 100%;
+    width: 300px;
+    border: 2px  solid black;
+    position: relative;
+    left: 600px;
+    top: 50px;
+}
+.lb{
+    position: relative;
+    left: 50px;
+}
+.rd{
+    position: relative;
+    left: 50px;
+}
+.rad{
+    position: relative;
+    left: 60px;
+}
+.add{
+    position: relative;
+    left: 60px;
+    margin: 20px;
+}
+.signup{
+    text-align: center;
+}

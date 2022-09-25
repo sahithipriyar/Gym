@@ -1,0 +1,39 @@
+.main_container{
+    position: relative;
+    height: 300px;
+    width: 250px;
+    border: 1px solid gray;
+    left: 500px;
+}
+.login{
+    position: relative;
+    left: 510px;
+    top: 85px;
+}
+#password{
+   margin-bottom: 20px;
+   height: 25px;
+   width: 200px;
+}
+#username{
+  margin-bottom: 10px;
+  height: 25px;
+   width: 200px;
+}
+.usr{
+    position: relative;
+    top: 100px;
+    left: 5px;
+    margin: 20px;
+}
+.log{
+    position: relative;
+    top: 100px;
+    left: 60px;
+    height: 40px;
+    width: 80px;
+    background-color: aqua;
+    color: black;
+    border-radius: 15px;
+    border-color: aqua;
+}
